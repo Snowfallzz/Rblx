@@ -1,6 +1,6 @@
 # Roblox lua projects
 
-This is where I post my code.
+This is where I post code.
 Some code may be open source, and some may not.
 
 🕊️ Peter 2:4 ✝️ :
